@@ -1,0 +1,49 @@
+.nav-hero-left span{
+color: rgb(24, 201, 255);
+font-size: 24pt;
+font-family: 'Times New Roman', Times, serif;
+}
+.nav-hero-right a{
+    margin-right: 25px;
+    text-decoration: none;
+    color:black;
+    transition: 100ms all;
+}
+.nav-hero-right a:hover{
+    border-bottom: 2px aqua solid;
+}
+.btnslayt{
+    margin-left: 4%;
+}
+.btnslaytsag{
+    margin-right: 4%;
+
+}
+.slytico{
+background-color: gray;
+border-radius: 25px;
+}
+.uclu-satir p{
+    width: 98%;
+    margin-top: 10px;
+}
+.footer{
+    background-color: aqua;
+    height: 200px;
+}
+.footer-sol span{
+    line-height: 100px;
+    color: white;
+font-size: 24pt;
+font-family: 'Times New Roman', Times, serif;
+}
+.footer-sag span{
+    line-height: 100px;
+    color: white;
+font-size: 24pt;
+font-family: 'Times New Roman', Times, serif;
+}
+.footer-sol p{
+    width: 90%;
+    margin-top: -20px;
+}
